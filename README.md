@@ -3,7 +3,7 @@
 
 - 🎓 Sou um estudante e entusiasta pelo desenvolvimento de software 🧑🏽‍💻
 
-- 👨‍🎓 Analise e Desenvolvimento de Sistemas 2/6
+- 👨‍🎓 Analise e Desenvolvimento de Sistemas 3/6
 
 - 🧐 Desenvolvedor Backend
 

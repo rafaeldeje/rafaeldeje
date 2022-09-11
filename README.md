@@ -15,13 +15,9 @@
 <a href="https://api.whatsapp.com/send?phone=5585989935100" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>   
 </div>
 
-  <img align="center" alt="rafaeldeje-HTML" title="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="rafaeldeje-CSS" title="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="rafaeldeje-java" title="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="rafaeldeje-windows10" title="Windows 10" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">  
-  <img align="center" alt="rafaeldeje-github" title="Github" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="rafaeldeje-git" title="Git" height="40" widht="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="rafaeldeje-python" title="Python" height="40" width="40 src="  <img align="center" alt="Lordjv-Python" height="30" width="40" 
+  <img align="center" alt="rafaeldeje-HTML" title="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  <img align="center" alt="rafaeldeje-CSS" title="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="rafaeldeje-java" title="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  <img align="center" alt="rafaeldeje-windows10" title="Windows 10" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">  
+  <img align="center" alt="rafaeldeje-github" title="Github" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">  <img align="center" alt="rafaeldeje-git" title="Git" height="40" widht="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">  <img align="center" alt="rafaeldeje-python" title="Python" height="40" width="40 src="  <img align="center" alt="Lordjv-Python" height="30" width="40">
 
 ## Fale Comigo!
 <div>

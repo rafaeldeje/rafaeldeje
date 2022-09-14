@@ -29,28 +29,38 @@
     </div>
   
  
- ## Esse sou eu!<img align="left" width="250" height="250" src="https://user-images.githubusercontent.com/102198489/190268521-bf879930-0270-4f99-a5e3-680c44db959a.png">
+ ## Esse sou eu! <img align="left" width="250" width="250" height="250" src="https://user-images.githubusercontent.com/102198489/190268521-bf879930-0270-4f99-a5e3-680c44db959a.png">
 <p>
   <img src="https://img.icons8.com/color/48/000000/graduation-cap.png" height="40px"/> 
   &nbsp;
   <label>
-    3º Semestre em Análise e Desenvolvimento de Sistemas</a>
+    3º Semestre em Análise e Desenvolvimento de Sistemas
   <label/>
   <br />
     
   <img src="https://img.icons8.com/color/48/000000/open-book--v2.png" height="40px"/> 
   &nbsp;
   <label>
-    Amo estudar e fazer cursos extra curriculos das áreas de desenvolvimento</a>
+    Adoro estudar a área de desenvolvimento e fazer cursos extracurriculares
   <label/>
   <br />
     
-  <img src="https://user-images.githubusercontent.com/102198489/190270217-e3e0ced2-a6af-469a-9fd0-0f46d11c4989.png" height="40px"/> 
+  <img src="https://user-images.githubusercontent.com/102198489/190271177-dd45658e-8647-4418-85b4-03de9aa45c03.png" height="50px"/> 
   &nbsp;
   <label>
-    Amo demais de treinar, é minha terapia</a>
+    Treinar é minha Terapia
   <label/>
   <br />
-<p>
+</p>
 
 </div><br>
+    
+
+    
+  <label>
+   Eu quero ser uma pessoa melhor para o futuro da minha esposa e filha. 
+ <label/>
+ <br /><img align="center" alt="us" height="500"  width="500" src="https://user-images.githubusercontent.com/102198489/190274180-7c5925ca-e70f-48ce-9905-8c65ca8eb6f6.png">
+<p>
+
+   </p>

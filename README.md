@@ -1,1 +1,4 @@
-## Programador Front End (HTML/CSS) iniciante, cursando 3º semestre em Analise e Desenvolvimento de Sistemas em busca da minha primeira oportunidade na área de desenvolvimento. Conhecimento nas linguagens Python e C, na área de Suporte Técnico (Manuntenção de Micro e Redes e Informática Avançada) e em Fundamentos Básicos do SAP. Determinação, organização, dedicação e aprendizado rápido agregam ao meu perfil.
+## Olá a todos! 
+
+### Me chamo Rafael de Jesus, sou um Estudante de Desenvolvimento de Software iniciante
+### Cursando 3º semestre em Análise e Desenvolvimento de Sistemas

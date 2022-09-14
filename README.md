@@ -60,7 +60,7 @@
   <label>
    Eu quero ser uma pessoa melhor para o futuro da minha esposa e filha. 
  <label/>
- <br /><img align="center" alt="us" height="500"  width="500" src="https://user-images.githubusercontent.com/102198489/190274180-7c5925ca-e70f-48ce-9905-8c65ca8eb6f6.png">
-<p>
+ <p>
+ <br /><img align="center" alt="us" height="450"  width="450" src="https://user-images.githubusercontent.com/102198489/190276632-8eefe0ee-8aa2-47da-a531-44644e5ae475.png">
 
    </p>

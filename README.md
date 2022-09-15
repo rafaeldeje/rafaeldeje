@@ -1,3 +1,9 @@
+ 
+  ![Visitor Count](https://profile-counter.glitch.me/rafaeldeje/count.svg)
+
+<div style="text-align: right">
+</div>
+
 # Olá a todos! <a href="https://www.linkedin.com/in/rafaeldeje"><img align="left" alt="pykes" height="250" src="https://user-images.githubusercontent.com/102198489/190265503-11b669c5-a727-4ee9-9a3b-87d7c8e031a3.png"></a>
 **Me chamo Rafael de Jesus.**
 
@@ -34,33 +40,40 @@
   <img src="https://img.icons8.com/color/48/000000/graduation-cap.png" height="40px"/> 
   &nbsp;
   <label>
-    3º Semestre em Análise e Desenvolvimento de Sistemas
-  <label/>
+   3º Semestre em Análise e Desenvolvimento de Sistemas
+   <label/>
   <br />
     
   <img src="https://img.icons8.com/color/48/000000/open-book--v2.png" height="40px"/> 
   &nbsp;
   <label>
-    Adoro estudar a área de desenvolvimento e fazer cursos extracurriculares
+  Adoro estudar a área de desenvolvimento e fazer cursos extracurriculares
   <label/>
   <br />
     
   <img src="https://user-images.githubusercontent.com/102198489/190271177-dd45658e-8647-4418-85b4-03de9aa45c03.png" height="50px"/> 
   &nbsp;
   <label>
-    Treinar é minha Terapia
+  Treinar é minha Terapia
   <label/>
   <br />
+ <a href="https://www.linkedin.com/in/rafaeldeje/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <a href="mailto:dejerafa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="wa.me/5585989935100"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+ <a href="https://instagram.com/rafaeldeje" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ 
 </p>
 
-</div><br>
-    
 
-    
-  <label>
-   Eu quero ser uma pessoa melhor para o futuro da minha esposa e filha. 
- <label/>
+
+  
  <p>
  <br /><img align="center" alt="us" height="450"  width="450" src="https://user-images.githubusercontent.com/102198489/190278597-5a2e163f-baaa-4022-ad9e-4cf58f835909.png">
-
+<label><sub>
+    
+   Eu quero ser uma pessoa melhor para o futuro da minha esposa e filha. 
+ <label/>
+    <sub/>
    </p>
+ 
+  </div><br>

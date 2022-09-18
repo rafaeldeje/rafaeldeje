@@ -1,5 +1,4 @@
  
-  ![Visitor Count](https://profile-counter.glitch.me/rafaeldeje/count.svg)
 
 <div style="text-align: right">
 </div>

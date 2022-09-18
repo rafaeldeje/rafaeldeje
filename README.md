@@ -57,11 +57,11 @@
   Treinar é minha Terapia
   <label/>
   <br />
+ 
  <a href="https://www.linkedin.com/in/rafaeldeje/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <a href="mailto:dejerafa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  <a href="wa.me/5585989935100"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
  <a href="https://instagram.com/rafaeldeje" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
- 
 </p>
 
 
@@ -71,10 +71,10 @@
  <br /><img align="center" alt="us" height="450"  width="450" src="https://user-images.githubusercontent.com/102198489/190278597-5a2e163f-baaa-4022-ad9e-4cf58f835909.png">
 <label><sub>
     
-   Eu quero ser uma pessoa melhor para o futuro da minha esposa e filha. 
+### Eu quero ser uma pessoa melhor para o futuro da minha esposa e filha.
  <label/>
     <sub/>
-   </p>
+</p>
  
   </div> 
  

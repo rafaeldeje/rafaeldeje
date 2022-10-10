@@ -1,4 +1,4 @@
-## Olá a todos! Me chamo Rafael de Jesus. Sou um estudante de ADS focando ser um FullStack!
+## Olá sou Rafael de Jesus. Estudante de ADS focando ser um FullStack!
 <div align="center">
   <a href="https://github.com/rafaeldeje">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaeldeje&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

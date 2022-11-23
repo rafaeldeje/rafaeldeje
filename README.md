@@ -20,7 +20,7 @@
 - ⚛️ HTML | CSS | JS | JAVA
 - 📝 I have experience as Maintenance of Micros and Networks, Advanced Computing.
 - 🌱 Studing Front End
-- 📫 How to found me: [linkedIn](https://www.linkedin.com/in/rafaeldeje/), [instagram](https://www.instagram.com/rafaeldeje/) or [whatsapp](https://wa.me/5585989935100)
+- 📫 How to found me: [linkedIn](https://www.linkedin.com/in/rafaeldeje/) or [whatsapp](https://wa.me/5585989935100)
 - 😄 Pronouns: ele/dele
 
  <a href="https://www.linkedin.com/in/rafaeldeje/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>

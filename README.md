@@ -15,7 +15,7 @@ public class Apresentação{
     <a href="wa.me/5585989935100"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
-<div class="Contador de coisinhas" align="left">
+<div class="Contador de coisinhas" align="center">
   <a href="https://www.github.com/rafaeldeje/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaeldeje&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldeje&layout=compact&langs_count=7&theme=synthwave"/>

@@ -15,13 +15,13 @@ public class Apresentação{
     <a href="wa.me/5585989935100"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
-<div align="left">
-  <a href="https://github.com/rafaeldeje">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaeldeje&show_icons=true&theme=merko&include_all_commits=true&count_private=true%22"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldeje&layout=compact&langs_count=7&theme=highcontrast"/>
+<div class="Contador de coisinhas" align="left">
+  <a href="https://www.github.com/rafaeldeje/">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafaeldeje&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldeje&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
- <div align="center" style="display: inline_block"><br>  
+ <div class="Os Icones" align="center" style="display: inline_block"><br>  
   <img align="center" alt="rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="rafa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

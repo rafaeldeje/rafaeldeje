@@ -17,8 +17,8 @@ public class Apresentação{
 
 <div class="Contador de coisinhas" align="left">
   <a href="https://www.github.com/rafaeldeje/">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafaeldeje&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldeje&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaeldeje&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldeje&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
  <div class="Os Icones" align="center" style="display: inline_block"><br>  

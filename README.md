@@ -16,7 +16,6 @@ public class Apresentação{
 </div>
 
 <div class="Contador de coisinhas" align="center">
-  <a href="https://www.github.com/rafaeldeje/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldeje&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 

@@ -29,7 +29,7 @@
 <p/><hr>
 
 <div class="links" align="left">
-    <a href="wa.me/5585982350899e&text=Opa%20rafa!%20Tá%20podendo%20falar%20agora?%20/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+    <a href="https://api.whatsapp.com/send/?phone=5585982350899&text=Opa+rafa%21+T%C3%A1+podendo+falar+agora%3F&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
     <a href="mailto:dejerafa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/rafaeldeje/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>

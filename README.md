@@ -1,4 +1,4 @@
-# Fala pessoas! <a href="https://linkedin.com/in/rafaeldeje"><img src="https://instagram.ffor14-1.fna.fbcdn.net/v/t51.2885-15/313813473_1071583600082753_6923425089316014948_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.ffor14-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=Ykt2uyNz9y8AX-2BQAD&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=Mjk2MTkwNzc2NDg5ODI2ODI2OA%3D%3D.2-ccb7-5&oh=00_AfDNYTEr2KPsF7-N_RmUE1oDKtsTy2CKIDJfPmtNKk3EBw&oe=644FB43A&_nc_sid=6136e7" align="left" width="180" height="180"></a>
+# Fala pessoas! <a href="https://linkedin.com/in/rafaeldeje"><img src="https://scontent.ffor14-1.fna.fbcdn.net/v/t39.30808-6/351115738_638311691163206_7380865332729475573_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFiVx-j0ZHYJ2nFNnTUIAF_pD_7ZeDbr1qkP_tl4NuvWuUdvrkGOYimLW8b7KZeLOClJhJwRFsTv8fRBUBnO5Uj&_nc_ohc=T-Rbt4cZtdoAX8wV5p1&_nc_ht=scontent.ffor14-1.fna&oh=00_AfCAa74Dj7IT1ZocGmgCXh98xEY0vGStPQF1DbbKlapVFQ&oe=648D2D85" align="left" width="180" height="180"></a>
 **Meu nome é Rafael de Jesus.**<br>
 *Sou um Desenvolvedor Júnior, estou no 4º semestre em ADS*</br>
 

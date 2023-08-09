@@ -1,32 +1,35 @@
-# Fala pessoas! <a href="https://linkedin.com/in/rafaeldeje"><img src="https://scontent.ffor14-1.fna.fbcdn.net/v/t39.30808-6/351115738_638311691163206_7380865332729475573_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFiVx-j0ZHYJ2nFNnTUIAF_pD_7ZeDbr1qkP_tl4NuvWuUdvrkGOYimLW8b7KZeLOClJhJwRFsTv8fRBUBnO5Uj&_nc_ohc=T-Rbt4cZtdoAX8wV5p1&_nc_ht=scontent.ffor14-1.fna&oh=00_AfCAa74Dj7IT1ZocGmgCXh98xEY0vGStPQF1DbbKlapVFQ&oe=648D2D85" align="left" width="180" height="180"></a>
+# Faaala pessoas! <a href="https://linkedin.com/in/rafaeldeje"><img src="https://portalnerdcore.files.wordpress.com/2019/07/homem-aranha-longe-de-casa-1-bilhao-bilheteria-destaque.jpg" align="left" width="180" height="180"></a>
 **Meu nome é Rafael de Jesus.**<br>
-*Sou um Desenvolvedor Júnior, estou no 4º semestre em ADS*</br>
+*Sou um Desenvolvedor Fullstack apaixonado por .NET, estou no 5º semestre em Analise e Desenvolvimento de Sistemas*</br>
 
 ### Posso conhecimentos em algumas linguagens, aqui algumas:
     
+#### Back-End
+<p>
+
+<img alt="rafa-csharp" height="35" width="40" src="https://github.com/WRCrys/devca-portfolio-ts/blob/main/src/components/ItemProject/assets/csharp-logo.svg"/> &nbsp;
+    <img alt="rafa-nodejs" height="35" width="40"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" /> &nbsp;
+    <img alt="rafa-java" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img alt="rafa-sql" height="35" width="40" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"/> &nbsp;
+    <img alt="rafa-postgre" height="35" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/> &nbsp;
+</p><hr>
+
+ 
  #### Front-End
 <p>
   <img alt="rafa-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
   <img alt="rafa-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
   <img alt="rafa-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> &nbsp;
-  <img alt="rafa-type" height="35" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/> &nbsp;
-  <img alt="rafa-react" height="35" width="40" src="https://img.icons8.com/color/344/react-native.png"/>  &nbsp;
-  <img alt="rafa-angular" height="35" width="40" src="https://github.com/WRCrys/devca-portfolio-ts/blob/main/src/assets/angular-logo.svg"/> &nbsp;
-</p><hr>
-
-#### Back-End
-<p>
-  <img alt="rafa-java" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img alt="rafa-csharp" height="35" width="40" src="https://github.com/WRCrys/devca-portfolio-ts/blob/main/src/components/ItemProject/assets/csharp-logo.svg"/> &nbsp;
-  <img alt="rafa-nodejs" height="35" width="40"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" /> &nbsp;
+ 
 </p><hr>
 
  #### Outras Linguagens
 <p>
-  <img alt="rafa-sql" height="35" width="40" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"/> &nbsp;
-  <img alt="rafa-postgre" height="35" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/> &nbsp;
   <img alt="rafa-GIT" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<p/><hr>
+ <img alt="rafa-type" height="35" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/> &nbsp;
+  <img alt="rafa-react" height="35" width="40" src="https://img.icons8.com/color/344/react-native.png"/>  &nbsp;
+  <img alt="rafa-angular" height="35" width="40" src="https://github.com/WRCrys/devca-portfolio-ts/blob/main/src/assets/angular-logo.svg"/> &nbsp;
+  <p/><hr>
 
 <div class="links" align="left">
     <a href="https://api.whatsapp.com/send/?phone=5585982350899&text=Opa+rafa%21+T%C3%A1+podendo+falar+agora%3F&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>

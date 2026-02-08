@@ -1,6 +1,6 @@
 # Hello, World!! <a href="https://linkedin.com/in/rafaeldeje"><img src="https://scontent.ffor14-1.fna.fbcdn.net/v/t39.30808-6/373314240_4395684320656645_234163769794905064_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHtguDYSsuxBSYP67S8fO3A5CngnRfYuoPkKeCdF9i6g79OQu21C-P8lntYsUzCbUi7jNFKB1XmKb_MzZ-y6Xm7&_nc_ohc=bII-CVlxRD4AX_7IJOF&_nc_ht=scontent.ffor14-1.fna&oh=00_AfBa0C2gPJh0rA3iRDm-IN3LZX4lxJZFo19H9sbwKbWZ6w&oe=6569C1BE" align="right" width="210" height="210"></a>
 **Eu sou Rafael de Jesus.**<br>
-*Desenvolvedor no 5º semestre de ADS com experiência em projeto temporário utilizando .NET Core e SQL Server, focado em desenvolvimento Backend. Em busca de novas oportunidades para aplicar e aprimorar minhas habilidades, contribuindo para projetos de sucesso.*</br>
+*Desenvolvedor formado em Analise e Desenvolvimento de Sistemas na Estácio, com experiência em projeto temporário utilizando .NET Core e SQL Server. Em busca de novas oportunidades para aplicar e aprimorar minhas habilidades, contribuindo para projetos de sucesso.*</br>
 
 ### Conhecimentos em algumas linguagens:
     
@@ -30,11 +30,7 @@
 <p/><hr>
 
 <div class="links" align="left">
-  <a href="https://api.whatsapp.com/send/?phone=5585982350899&text=Opa+rafa%21+T%C3%A1+podendo+falar+agora%3F&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://api.whatsapp.com/send/?phone=5585989710899&text=Opa+rafa%21+T%C3%A1+podendo+falar+agora%3F&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="mailto:dejerafa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/rafaeldeje/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
-          
-<div class="Contador de coisinhas" align="right">
-  <a href="https://www.github.com/rafaeldeje/"><img height="190em" width="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldeje&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
